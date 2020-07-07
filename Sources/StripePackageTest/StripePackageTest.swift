@@ -1,0 +1,6 @@
+
+import Stripe
+
+class Foo {
+	
+}
