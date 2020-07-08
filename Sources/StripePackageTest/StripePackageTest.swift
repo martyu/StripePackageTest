@@ -1,6 +1,0 @@
-
-import Stripe
-
-class Foo {
-	
-}
